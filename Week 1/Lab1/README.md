@@ -22,3 +22,33 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+
+1. I launched the AWS cloud shell
+![](../../images/Screenshot%20(495).png)
+
+2. I created a S3 bucket using the AWS cloud shell
+![](../../images/Screenshot%20(496).png)
+![](../../images/Screenshot%20(497).png)
+
+3. I created a folder
+![](../../images/Screenshot%20(500).png)
+
+4. I uploaded objects to my s3 bucket
+![](../../images/Screenshot%20(501).png)
+![](../../images/Screenshot%20(503).png)
+![](../../images/Screenshot%20(504).png)
+
+
+5.I listed the object in my s3 bucket
+![](../../images/Screenshot%20(506).png)
+
+6. I downloaded the object in my s3 bucket
+![](../../images/Screenshot%20(507).png)
+![](../../images/Screenshot%20(511).png)
+
+7.![](../../images/Screenshot%20(509).png)
+
+8. I deleted the bucket
+![](../../images/Screenshot%20(510).png)
+
