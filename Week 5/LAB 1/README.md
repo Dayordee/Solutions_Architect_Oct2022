@@ -14,3 +14,13 @@ NB: You need to launch at least two instances to do this.
 Guide
 https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/load-balancer-getting-started.html
 
+1. I created an Application load Balancer
+
+2. I created  a Network Load Balancer
+
+3.  I created a Gateway  Load Balancer
+
+4. I created  a Classic Load Balancer
+
+5. i performed cleanup operations
+

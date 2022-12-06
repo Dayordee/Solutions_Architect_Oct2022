@@ -33,4 +33,34 @@ financeuser          billinguser          Billing view access
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_users-self-manage-mfa-and-creds.html
 
+1. I logged in to my root account
+![](../../images/dashboard.png)
 
+2. I created a user-group with S3 Read-only Access (S3 support)
+![](../../images/read-only.png)
+![](../../images/readonly.png)
+
+3.I created a user IAM group with EC2 read only acess (EC2 support)
+
+4. I created  a user IAM group with EC2 full access (EC2 admin)
+![](../../images/groups.png)
+
+5. I created 3 IAM users and I attached to the user-groups created according
+![](../../images/added.png)
+
+    i.  ![](../../images/1.png)
+    ii.![](../../images/2..png)
+    iii. ![](../../images/3.png)
+
+6. I tested my design
+![](../../images/tested%202.png)
+![](../../images/tested.png)
+
+7. I cleaned up
+![](../../images/clean.png)
+
+8. I replicated the process for Schulltech organisation
+![](../../images/group.png)
+![](../../images/attached.png)
+
+9. I cleaned up

@@ -25,6 +25,20 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html
 
 
+# Monitoring 
+
+1. I enabled billing alerts
+2. I Created a billing alarm
+3. I Checked the alarm status
+4. I Edited a billing alarm
+5. I Deleted a billing alarm
+
+
+# Alarms
+
+1. I  Created a CPU usage alarm
+2. I  Created a load balancer latency alarm that sends email
+3. I Created a CloudWatch alarm based on a static threshold
 
 
 

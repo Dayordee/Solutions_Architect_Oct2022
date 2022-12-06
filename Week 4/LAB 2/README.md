@@ -12,4 +12,14 @@ Guide:
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-attaching-volume.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-attaching-volume.
+
+1. I created an Amazon EBS volume
+
+2. I attached and mount the volume to an EC2 instance
+
+3. I created  a snapshot of the volume 
+
+4. I created a new  volume from the snapshot I took
+
+5. I attached and mount the new volume to the EC2 instance

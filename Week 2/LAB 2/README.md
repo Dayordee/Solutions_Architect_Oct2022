@@ -8,8 +8,33 @@ Task: Create a nondefault VPC using AWS CLI
 6. Lauch an instance into your subnet 
 7. Clean Up
 
+1. I opened my AWS CLI
+![](../../images/cli%20opened.png)
+
+2. I launched a VPC 
+![](../../images/VPC%20launched.png)
+
+3. I created two subnets which one is a private and the other a public subnet
+![](../../images/private.png)
+![](../../images/public.png)
+
+4. I created an internet gateway and attached  it to one of my subnets to make it public 
+![](../../images/IGW.png)
+
+5. I created a security group and a SSH access from anywhere
+![](../../images/SG.png)
+
+6. I then launch an instance into the subnet
+![](../../images/Instance.png)
+![](../../images/insta.png)
+![](../../images/runinig.png)
+
+7. I performed a cleanup for the operation
+
+
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
 
 https://docs.aws.amazon.com/vpc/index.html
+

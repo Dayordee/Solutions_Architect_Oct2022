@@ -11,3 +11,14 @@ Tasks:
 
 Guide:
 https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html
+
+
+1. I created a launch template
+
+2. I created a single-instance Auto  scaling Group
+
+3. I verified the Auto Scaling Group
+
+4. I terminated an instance in the auto scaling Group
+
+5. I cleaned up
