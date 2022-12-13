@@ -28,10 +28,19 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEma
 # Monitoring 
 
 1. I enabled billing alerts
+![Alt text](../../images/Screenshot%20(810).png)
+
 2. I Created a billing alarm
+![Alt text](../../images/Screenshot%20(814).png)
+![Alt text](../../images/Screenshot%20(815).png)
+![Alt text](../../images/Screenshot%20(816).png)
+![Alt text](../../images/Screenshot%20(818).png)
 3. I Checked the alarm status
+
 4. I Edited a billing alarm
+![Alt text](../../images/Screenshot%20(819).png)
 5. I Deleted a billing alarm
+![Alt text](../../images/Screenshot%20(822).png)
 
 
 # Alarms
